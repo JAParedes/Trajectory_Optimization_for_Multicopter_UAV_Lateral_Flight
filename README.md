@@ -1,0 +1,2 @@
+# Trajectory_Optimization_for_Quadcopter_UAV_Lateral_Flight
+Trajectory optimization for quadcopter UAV lateral flight demonstrated for flip maneuver.
