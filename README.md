@@ -14,7 +14,7 @@ and paste `addpath('<yourpath>/casadi-3.6.6)` in the *startup.m* file.
 
 ## Demonstration Video
 
-The Youtube video in this link (to be updated...) shows the results of each of the main files. The slides used for the video are shown in the **Time-optimal trajectory planning for multicopter lateral flight_Presentation.pdf** file. (to be added...)
+The Youtube video in [this link](https://youtu.be/xA4TRUVIA5A) shows the results of each of the main files. The slides used for the video are shown in the **Time-optimal trajectory planning for multicopter lateral flight_Presentation.pdf** file.
 
 ## Main Files
 * **Trajectory_Optimization_for_Multicopter.m** : Sets up and solves the trajectory optimization problem NLP using the CasADi software toolbox considering the multicopter lateral flight dynamics shown in [1].
